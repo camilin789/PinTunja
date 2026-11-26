@@ -75,7 +75,7 @@ Pestañas principales: **Conducir · Grabar · Mapa · Repuestos/Precios · Comu
 - Copiloto persistente con servicio en primer plano; ruta con menos huecos (OSRM) y botón "Ver en Maps".
 - Directorio propio de lugares de Tunja con búsqueda tolerante a errores.
 
-Más detalle en la carpeta [`docs/`](docs/) (informe técnico y documentación de la app).
+Repositorio: https://github.com/camilin789/PinTunja · Más detalle en la carpeta [`docs/`](docs/) (informe técnico y documentación de la app).
 
 ## 5. Instrucciones de ejecución
 
