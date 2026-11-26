@@ -1,0 +1,26 @@
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Respaldos locales
+respaldo_*/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+venv/
+
+# Claves
+*.env
+secrets.properties
